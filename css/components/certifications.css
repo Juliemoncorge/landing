@@ -1,0 +1,23 @@
+
+.ligne{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin-left: 360px;
+	margin-right: 360px;
+
+}
+.certifications{
+
+	display: flex;
+	flex-grow: 1;
+	margin-left: 40px;
+	padding-bottom: 50px;
+	padding-top: 0px;
+}
+
+
+.certifications img{
+	height: 70px;
+}
+

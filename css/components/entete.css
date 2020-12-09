@@ -1,0 +1,37 @@
+.rubrique{
+	display: flex;
+	
+	height: 200px;
+}
+
+
+
+.entete{
+	display: flex;
+	justify-content: space-around;
+
+	align-items: center;
+	text-align: center;
+	justify-content: space-around;
+
+	margin: 0px;
+	flex-grow: 1;
+	width: 250px;
+}
+
+.entete img{
+	padding-left: 0px;
+	padding-top: 0px;
+	align-items: center;
+}
+
+
+.entete #logo-amande{
+	height: 75px;
+	padding-top: 0px;
+}
+
+.entete p{
+	font-family: 'Nunito', sans-serif;
+	font-size: 30px;
+}
